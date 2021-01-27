@@ -18,3 +18,10 @@
 - I would like to have the ability to communicate with other children on the website.
 - I would like to get points when I do any activity so that my rank will be higher. 
 
+## Wireframe
+
+![img](wireframe1.jpg)
+![img](wireframe2.jpg)
+![img](wireframe3.jpg)
+![img](wireframe4.jpg)
+
