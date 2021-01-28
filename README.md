@@ -25,3 +25,6 @@
 ![img](wireframe3.jpg)
 ![img](wireframe4.jpg)
 
+## Domain Modeling
+![img](domain-modeling.png)
+
